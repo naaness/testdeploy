@@ -1,4 +1,5 @@
 deploy.sh
 *.sh
 *.pem
-*.pub
+naan_rsa
+

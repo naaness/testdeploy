@@ -1,5 +1,6 @@
 deploy.sh
 *.sh
 *.pem
-naan_rsa
+id_rsa
+
 
